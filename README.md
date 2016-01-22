@@ -1,0 +1,2 @@
+# gamest
+Zalchich game shortcut
